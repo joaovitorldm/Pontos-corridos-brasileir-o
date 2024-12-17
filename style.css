@@ -1,0 +1,22 @@
+html {
+    background-color: gray;
+}
+body {
+background-color: white;
+border-radius: 20px 20px;
+margin: 40px 40px;
+padding: 0 0 20px;
+}
+body > h1{
+    text-align: center;
+}
+body > h3{
+    text-align: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+.margincima{
+    margin-top: 5px;
+}
